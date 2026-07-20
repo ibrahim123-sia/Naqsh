@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #fbf4ea;
+}
+
+#root {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+h1, h2, h3, h4, .font-display {
+  font-family: "Cormorant Garamond", serif;
+}
+
+/* Naqsh's signature section divider: a thin gold rule with a centered diamond */
+.naqsh-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.naqsh-divider::before,
+.naqsh-divider::after {
+  content: "";
+  height: 1px;
+  width: 4rem;
+  background-color: #c9a24b;
+}
+
+.naqsh-divider-mark {
+  width: 6px;
+  height: 6px;
+  background-color: #c9a24b;
+  transform: rotate(45deg);
+}
+
+/* Subtle jaali-inspired lattice watermark, used sparingly on section backgrounds */
+.naqsh-jaali-bg {
+  background-image: radial-gradient(circle at 1px 1px, rgba(201, 162, 75, 0.18) 1px, transparent 0);
+  background-size: 22px 22px;
+}
