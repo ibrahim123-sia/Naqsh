@@ -22,7 +22,7 @@ const Hero = () => {
             The Festive Edit
           </span>
           <h1 className="font-display text-4xl md:text-6xl lg:text-7xl text-naqsh-ivory mb-6 leading-tight">
-            Jewellery for Every Mehndi & Milaad
+            Jewellery for Every Mehndi & Baraat
           </h1>
           <div className="naqsh-divider mb-8">
             <span className="naqsh-divider-mark"></span>

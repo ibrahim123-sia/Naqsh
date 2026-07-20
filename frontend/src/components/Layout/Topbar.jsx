@@ -20,12 +20,12 @@ const Topbar = () => {
         </div>
 
         <div className="text-xs text-center flex-grow uppercase tracking-widest text-naqsh-ivory/70">
-          Free shipping on orders over Rs. 3,000 · PayFast & Cash on Delivery
+          Free shipping on orders over Rs. 2,000 · PayFast & Cash on Delivery
         </div>
 
         <div className="text-xs hidden md:block">
-          <a href="tel:+923000000000" className="hover:text-naqsh-gold transition-colors duration-200">
-            +92 3XX XXXXXXX
+          <a href="tel:+923223396443" className="hover:text-naqsh-gold transition-colors duration-200">
+            +92 322 3396443
           </a>
         </div>
       </div>
