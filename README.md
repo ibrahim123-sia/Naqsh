@@ -1,5 +1,7 @@
 # Naqsh
 
+Naqsh is an online store for artificial (fashion) jewellery made for shoppers in Pakistan — necklaces, earrings, rings, bangles, pendants, and anklets in Kundan, Meenakari, and stone-studded styles, alongside matching clutches, evening bags, and jewellery organizers. Customers can shop by occasion (bridal, festive, party wear, or everyday), filter by style, colour, and budget, and pay online or by cash on delivery. Behind the scenes, the business owner gets an admin portal to add and update products with photos, track and update customer orders, and manage customer accounts — all without needing anyone to touch code.
+
 Naqsh is a full-stack e-commerce storefront for artificial/fashion jewellery, clutches & evening bags, and jewellery organizers, built for the Pakistani market.
 
 ## Features
